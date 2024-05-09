@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UpTrain</string>
+    <string name="bmi_name">My BMI</string>
+    <string name="action_1">1</string>
+    <string name="action_2">2</string>
+    <string name="action_3">3</string>
+    <string name="action_4">4</string>
+    <string name="action_5">5</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome">Hi,user! Are you ready to run?</string>
+</resources>

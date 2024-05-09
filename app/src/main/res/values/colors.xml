@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#03A9F4</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FFEB3B</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="green">#00cc33</color>
+    <!-- UI Color -->
+    <color name="title_gray">#456A73</color>
+
+
+    <color name="black_text">#DE000000</color>
+    <color name="black_shadow">#F7000000</color>
+    <color name="cod_gray">#141D1F</color>
+    <color name="bg_color">#0D1316</color>
+    <color name="nav_back">#21252D</color>
+    <color name="blue_light">#2EE7D6</color>
+
+
+
+    <color name="green_malachite">#1ED760</color>
+    <color name="green_dark_pastel">#1DB954</color>
+    <color name="summer_sky">#2BC9BF</color>
+    <color name="black_pearl">#0F1415</color>
+    <!-- BMI Color !-->
+    <color name="under_weight">#DE03A9F4</color>
+    <color name="normal_weight">#DE1ED760</color>
+    <color name="over_weight">#DEFF9800</color>
+    <color name="obese_weight">#DEFF0000</color>
+    <color name="extreme_weight">#DEE14EFA</color>
+    <color name="distance">#ff9900</color>
+    <color name="step">#006699</color>
+    <color name="calo">#cc0033</color>
+    <color name="time">#9933ff</color>
+
+
+<!--    Main color-->
+    <color name="blue">#2542AC</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="red">#F03636</color>
+    <color name="gray">#737373</color>
+    <color name="grayLighter">#F5F6F8</color>
+
+
+
+</resources>

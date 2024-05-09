@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="350dp"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/list_item_background"
+    >
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_gravity="center"
+        android:layout_marginVertical="20dp">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:textColor="@color/blue"
+            android:textStyle="bold"
+            android:textSize="@dimen/title"
+            android:text="UPDATE YOUR INFORMATION JOURNEY"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_marginHorizontal="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="vertical" >
+        <TextView
+            android:layout_marginBottom="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Journey name"
+            android:textSize="@dimen/content"
+            android:fontFamily="@font/manrope"
+            android:textColor="@color/gray"/>
+        <EditText
+            android:id="@+id/journey_name_edt"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:background="@drawable/edit_text_stoke_green"
+            android:ems="10"
+            android:fontFamily="@font/manrope"
+            android:gravity="left|center_vertical"
+            android:hint="Update journey name"
+            android:inputType="textPersonName"
+            android:paddingLeft="10dp"
+            android:textColor="@color/black"
+            android:textColorHint="@color/material_on_primary_emphasis_medium"
+            android:textSize="@dimen/content" />
+        <TextView
+            android:layout_marginBottom="4dp"
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Comment"
+            android:fontFamily="@font/manrope"
+            android:textSize="@dimen/content"
+            android:textColor="@color/gray"/>
+        <EditText
+            android:id="@+id/comment_edt"
+            android:lines="8"
+            android:minLines="6"
+            android:gravity="top|left"
+            android:maxLines="10"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:background="@drawable/edit_text_stoke_green"
+            android:ems="10"
+            android:fontFamily="@font/manrope"
+            android:hint="Update your comment"
+            android:inputType="textPersonName"
+            android:paddingLeft="10dp"
+            android:paddingTop="10dp"
+            android:textColor="@color/black"
+            android:textColorHint="@color/material_on_primary_emphasis_medium"
+            android:textSize="@dimen/content" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginVertical="10dp"
+        android:layout_marginHorizontal="10dp"
+        android:gravity="right">
+
+        <Button
+            android:id="@+id/cancel_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/white"
+            android:textStyle="bold"
+            android:fontFamily="@font/manrope"
+            android:textColor="@color/black"
+            app:backgroundTint="@color/white"
+            android:text="Cancel"
+            android:textAllCaps="false"
+            android:textSize="@dimen/content"
+            app:backgroundTintMode="multiply" />
+
+        <Button
+            android:id="@+id/save_btn"
+            android:layout_width="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_gravity="right"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/manrope"
+            android:textStyle="bold"
+            android:text="Save"
+            android:textAllCaps="false"
+            android:textSize="@dimen/content"
+            android:textColor="@color/white"
+            android:background="@color/blue"
+            app:backgroundTintMode="multiply" />
+    </LinearLayout>
+</LinearLayout>

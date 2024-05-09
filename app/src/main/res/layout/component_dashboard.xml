@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/layoutSteps"
+    android:gravity="center_horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="140dp"
+    android:orientation="vertical"
+    android:layout_margin="10dp"
+    android:background="@drawable/shadow_effect_light"
+    style="@style/fragmentSteps">
+    <ImageView
+        android:id="@+id/img"
+        android:layout_height="40dp"
+        android:layout_marginBottom="6dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="9dp"
+        android:layout_width="40dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/img_babyfeet" />
+    <TextView
+        android:id="@+id/tvName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="5sp"
+        android:fontFamily="@font/manrope"
+        android:textColor="@color/gray"
+        android:text="Step" />
+    <TextView
+        android:id="@+id/tvInfo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="numStep"
+        android:layout_gravity="center"
+        android:textSize="@dimen/title"
+        android:textColor="@color/black"
+        android:fontFamily="@font/manrope"
+        android:textStyle="bold" />
+</LinearLayout>

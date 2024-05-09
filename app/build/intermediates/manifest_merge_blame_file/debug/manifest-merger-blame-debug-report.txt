@@ -1,0 +1,174 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.h3lc.android.uptrain"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->C:\Users\Surface\Documents\Pal\myproject\UpTrain-Official\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\Users\Surface\Documents\Pal\myproject\UpTrain-Official\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+11-->C:\Users\Surface\Documents\Pal\myproject\UpTrain-Official\app\src\main\AndroidManifest.xml:5:5-79
+11-->C:\Users\Surface\Documents\Pal\myproject\UpTrain-Official\app\src\main\AndroidManifest.xml:5:22-76
+12    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+12-->C:\Users\Surface\Documents\Pal\myproject\UpTrain-Official\app\src\main\AndroidManifest.xml:6:5-81
+12-->C:\Users\Surface\Documents\Pal\myproject\UpTrain-Official\app\src\main\AndroidManifest.xml:6:22-78
+13    <uses-permission android:name="android.permission.VIBRATE" />
+13-->C:\Users\Surface\Documents\Pal\myproject\UpTrain-Official\app\src\main\AndroidManifest.xml:7:5-65
+13-->C:\Users\Surface\Documents\Pal\myproject\UpTrain-Official\app\src\main\AndroidManifest.xml:7:22-63
+14
+15    <uses-feature
+15-->C:\Users\Surface\Documents\Pal\myproject\UpTrain-Official\app\src\main\AndroidManifest.xml:9:5-11:35
+16        android:glEsVersion="0x00020000"
+16-->C:\Users\Surface\Documents\Pal\myproject\UpTrain-Official\app\src\main\AndroidManifest.xml:10:9-41
+17        android:required="true" />
+17-->C:\Users\Surface\Documents\Pal\myproject\UpTrain-Official\app\src\main\AndroidManifest.xml:11:9-32
+18    <!-- Include required permissions for Google Maps API to run. -->
+19    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+19-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\Surface\.gradle\caches\transforms-3\38fa47cafbb07c71971cfceb63b51740\transformed\play-services-maps-17.0.1\AndroidManifest.xml:23:5-79
+19-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\Surface\.gradle\caches\transforms-3\38fa47cafbb07c71971cfceb63b51740\transformed\play-services-maps-17.0.1\AndroidManifest.xml:23:22-76
+20    <uses-permission android:name="android.permission.INTERNET" />
+20-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\Surface\.gradle\caches\transforms-3\38fa47cafbb07c71971cfceb63b51740\transformed\play-services-maps-17.0.1\AndroidManifest.xml:24:5-67
+20-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\Surface\.gradle\caches\transforms-3\38fa47cafbb07c71971cfceb63b51740\transformed\play-services-maps-17.0.1\AndroidManifest.xml:24:22-64
+21
+22    <queries>
+22-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\Surface\.gradle\caches\transforms-3\38fa47cafbb07c71971cfceb63b51740\transformed\play-services-maps-17.0.1\AndroidManifest.xml:30:5-34:15
+23
+24        <!-- Needs to be explicitly declared on Android R+ -->
+25        <package android:name="com.google.android.apps.maps" />
+25-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\Surface\.gradle\caches\transforms-3\38fa47cafbb07c71971cfceb63b51740\transformed\play-services-maps-17.0.1\AndroidManifest.xml:33:9-64
+25-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\Surface\.gradle\caches\transforms-3\38fa47cafbb07c71971cfceb63b51740\transformed\play-services-maps-17.0.1\AndroidManifest.xml:33:18-61
+26    </queries>
+27
+28    <application
+28-->C:\Users\Surface\Documents\Pal\myproject\UpTrain-Official\app\src\main\AndroidManifest.xml:13:5-57:19
+29        android:allowBackup="true"
+29-->C:\Users\Surface\Documents\Pal\myproject\UpTrain-Official\app\src\main\AndroidManifest.xml:14:9-35
+30        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+30-->[androidx.core:core:1.5.0] C:\Users\Surface\.gradle\caches\transforms-3\6182fe6d65ef8961a040b52a46bdfbf6\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+31        android:debuggable="true"
+32        android:icon="@mipmap/ic_launcher"
+32-->C:\Users\Surface\Documents\Pal\myproject\UpTrain-Official\app\src\main\AndroidManifest.xml:15:9-43
+33        android:label="@string/app_name"
+33-->C:\Users\Surface\Documents\Pal\myproject\UpTrain-Official\app\src\main\AndroidManifest.xml:16:9-41
+34        android:roundIcon="@mipmap/ic_launcher_round"
+34-->C:\Users\Surface\Documents\Pal\myproject\UpTrain-Official\app\src\main\AndroidManifest.xml:17:9-54
+35        android:supportsRtl="true"
+35-->C:\Users\Surface\Documents\Pal\myproject\UpTrain-Official\app\src\main\AndroidManifest.xml:18:9-35
+36        android:testOnly="true"
+37        android:theme="@style/Theme.UpTrain" >
+37-->C:\Users\Surface\Documents\Pal\myproject\UpTrain-Official\app\src\main\AndroidManifest.xml:19:9-45
+38        <receiver
+38-->C:\Users\Surface\Documents\Pal\myproject\UpTrain-Official\app\src\main\AndroidManifest.xml:21:9-28:20
+39            android:name="com.h3lc.android.uptrain.Helper.MyReceiver"
+39-->C:\Users\Surface\Documents\Pal\myproject\UpTrain-Official\app\src\main\AndroidManifest.xml:22:13-46
+40            android:enabled="true"
+40-->C:\Users\Surface\Documents\Pal\myproject\UpTrain-Official\app\src\main\AndroidManifest.xml:23:13-35
+41            android:exported="true" >
+41-->C:\Users\Surface\Documents\Pal\myproject\UpTrain-Official\app\src\main\AndroidManifest.xml:24:13-36
+42            <intent-filter>
+42-->C:\Users\Surface\Documents\Pal\myproject\UpTrain-Official\app\src\main\AndroidManifest.xml:25:13-27:29
+43                <action android:name="android.intent.action.BATTERY_LOW" />
+43-->C:\Users\Surface\Documents\Pal\myproject\UpTrain-Official\app\src\main\AndroidManifest.xml:26:17-76
+43-->C:\Users\Surface\Documents\Pal\myproject\UpTrain-Official\app\src\main\AndroidManifest.xml:26:25-73
+44            </intent-filter>
+45        </receiver>
+46
+47        <service
+47-->C:\Users\Surface\Documents\Pal\myproject\UpTrain-Official\app\src\main\AndroidManifest.xml:30:9-33:39
+48            android:name="com.h3lc.android.uptrain.Controllers.LocationService"
+48-->C:\Users\Surface\Documents\Pal\myproject\UpTrain-Official\app\src\main\AndroidManifest.xml:31:13-56
+49            android:enabled="true"
+49-->C:\Users\Surface\Documents\Pal\myproject\UpTrain-Official\app\src\main\AndroidManifest.xml:32:13-35
+50            android:exported="true" />
+50-->C:\Users\Surface\Documents\Pal\myproject\UpTrain-Official\app\src\main\AndroidManifest.xml:33:13-36
+51
+52        <activity
+52-->C:\Users\Surface\Documents\Pal\myproject\UpTrain-Official\app\src\main\AndroidManifest.xml:34:9-40:20
+53            android:name="com.h3lc.android.uptrain.Controllers.WelcomeActivity"
+53-->C:\Users\Surface\Documents\Pal\myproject\UpTrain-Official\app\src\main\AndroidManifest.xml:34:19-62
+54            android:screenOrientation="portrait" >
+54-->C:\Users\Surface\Documents\Pal\myproject\UpTrain-Official\app\src\main\AndroidManifest.xml:35:13-49
+55            <intent-filter>
+55-->C:\Users\Surface\Documents\Pal\myproject\UpTrain-Official\app\src\main\AndroidManifest.xml:36:13-39:29
+56                <action android:name="android.intent.action.MAIN" />
+56-->C:\Users\Surface\Documents\Pal\myproject\UpTrain-Official\app\src\main\AndroidManifest.xml:37:17-69
+56-->C:\Users\Surface\Documents\Pal\myproject\UpTrain-Official\app\src\main\AndroidManifest.xml:37:25-66
+57
+58                <category android:name="android.intent.category.LAUNCHER" />
+58-->C:\Users\Surface\Documents\Pal\myproject\UpTrain-Official\app\src\main\AndroidManifest.xml:38:17-77
+58-->C:\Users\Surface\Documents\Pal\myproject\UpTrain-Official\app\src\main\AndroidManifest.xml:38:27-74
+59            </intent-filter>
+60        </activity>
+61        <activity
+61-->C:\Users\Surface\Documents\Pal\myproject\UpTrain-Official\app\src\main\AndroidManifest.xml:41:9-42:61
+62            android:name="com.h3lc.android.uptrain.Controllers.MainActivity"
+62-->C:\Users\Surface\Documents\Pal\myproject\UpTrain-Official\app\src\main\AndroidManifest.xml:41:19-59
+63            android:screenOrientation="portrait" />
+63-->C:\Users\Surface\Documents\Pal\myproject\UpTrain-Official\app\src\main\AndroidManifest.xml:42:13-49
+64        <activity
+64-->C:\Users\Surface\Documents\Pal\myproject\UpTrain-Official\app\src\main\AndroidManifest.xml:43:9-44:61
+65            android:name="com.h3lc.android.uptrain.Controllers.RunRecordDetailActivity"
+65-->C:\Users\Surface\Documents\Pal\myproject\UpTrain-Official\app\src\main\AndroidManifest.xml:43:19-70
+66            android:screenOrientation="portrait" />
+66-->C:\Users\Surface\Documents\Pal\myproject\UpTrain-Official\app\src\main\AndroidManifest.xml:44:13-49
+67        <activity
+67-->C:\Users\Surface\Documents\Pal\myproject\UpTrain-Official\app\src\main\AndroidManifest.xml:45:9-46:61
+68            android:name="com.h3lc.android.uptrain.Controllers.BMIActivity"
+68-->C:\Users\Surface\Documents\Pal\myproject\UpTrain-Official\app\src\main\AndroidManifest.xml:45:19-58
+69            android:screenOrientation="portrait" />
+69-->C:\Users\Surface\Documents\Pal\myproject\UpTrain-Official\app\src\main\AndroidManifest.xml:46:13-49
+70        <activity
+70-->C:\Users\Surface\Documents\Pal\myproject\UpTrain-Official\app\src\main\AndroidManifest.xml:47:9-48:61
+71            android:name="com.h3lc.android.uptrain.Controllers.SplashActivity"
+71-->C:\Users\Surface\Documents\Pal\myproject\UpTrain-Official\app\src\main\AndroidManifest.xml:47:19-61
+72            android:screenOrientation="portrait" />
+72-->C:\Users\Surface\Documents\Pal\myproject\UpTrain-Official\app\src\main\AndroidManifest.xml:48:13-49
+73        <activity
+73-->C:\Users\Surface\Documents\Pal\myproject\UpTrain-Official\app\src\main\AndroidManifest.xml:49:9-50:61
+74            android:name="com.h3lc.android.uptrain.Controllers.RunningListActivity"
+74-->C:\Users\Surface\Documents\Pal\myproject\UpTrain-Official\app\src\main\AndroidManifest.xml:49:19-66
+75            android:screenOrientation="portrait" />
+75-->C:\Users\Surface\Documents\Pal\myproject\UpTrain-Official\app\src\main\AndroidManifest.xml:50:13-49
+76
+77        <meta-data
+77-->C:\Users\Surface\Documents\Pal\myproject\UpTrain-Official\app\src\main\AndroidManifest.xml:51:9-53:57
+78            android:name="preloaded_fonts"
+78-->C:\Users\Surface\Documents\Pal\myproject\UpTrain-Official\app\src\main\AndroidManifest.xml:52:13-43
+79            android:resource="@array/preloaded_fonts" />
+79-->C:\Users\Surface\Documents\Pal\myproject\UpTrain-Official\app\src\main\AndroidManifest.xml:53:13-54
+80        <meta-data
+80-->C:\Users\Surface\Documents\Pal\myproject\UpTrain-Official\app\src\main\AndroidManifest.xml:54:9-56:55
+81            android:name="com.google.android.maps.v2.API_KEY"
+81-->C:\Users\Surface\Documents\Pal\myproject\UpTrain-Official\app\src\main\AndroidManifest.xml:55:13-62
+82            android:value="@string/google_maps_key" />
+82-->C:\Users\Surface\Documents\Pal\myproject\UpTrain-Official\app\src\main\AndroidManifest.xml:56:13-52
+83        <!-- Needs to be explicitly declared on P+ -->
+84        <uses-library
+84-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\Surface\.gradle\caches\transforms-3\38fa47cafbb07c71971cfceb63b51740\transformed\play-services-maps-17.0.1\AndroidManifest.xml:39:9-41:40
+85            android:name="org.apache.http.legacy"
+85-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\Surface\.gradle\caches\transforms-3\38fa47cafbb07c71971cfceb63b51740\transformed\play-services-maps-17.0.1\AndroidManifest.xml:40:13-50
+86            android:required="false" />
+86-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\Surface\.gradle\caches\transforms-3\38fa47cafbb07c71971cfceb63b51740\transformed\play-services-maps-17.0.1\AndroidManifest.xml:41:13-37
+87
+88        <activity
+88-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Surface\.gradle\caches\transforms-3\1606a57187a0c6cea1032d065cbf2645\transformed\play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+89            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+89-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Surface\.gradle\caches\transforms-3\1606a57187a0c6cea1032d065cbf2645\transformed\play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+90            android:exported="false"
+90-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Surface\.gradle\caches\transforms-3\1606a57187a0c6cea1032d065cbf2645\transformed\play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+91            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+91-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Surface\.gradle\caches\transforms-3\1606a57187a0c6cea1032d065cbf2645\transformed\play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+92
+93        <meta-data
+93-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Surface\.gradle\caches\transforms-3\d278510d913a8a52b4a621ab7d7ec7b3\transformed\play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+94            android:name="com.google.android.gms.version"
+94-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Surface\.gradle\caches\transforms-3\d278510d913a8a52b4a621ab7d7ec7b3\transformed\play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+95            android:value="@integer/google_play_services_version" />
+95-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Surface\.gradle\caches\transforms-3\d278510d913a8a52b4a621ab7d7ec7b3\transformed\play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+96    </application>
+97
+98</manifest>
