@@ -33,7 +33,6 @@ public class LocationService extends Service {
     private final IBinder binder = new LocationServiceBinder();
     private JourneyUtil mJourneyUtil;
     private LocationUtil mLocationUtil;
-
     private final String CHANNEL_ID = "100";
     private final int NOTIFICATION_ID = 001;
     private long startTime = 0;

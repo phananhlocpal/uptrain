@@ -4,7 +4,11 @@ import android.app.AlertDialog;
 import android.app.Dialog;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
+import android.graphics.Canvas;
 import android.graphics.Color;
+import android.graphics.Paint;
+import android.graphics.PorterDuff;
+import android.graphics.PorterDuffColorFilter;
 import android.graphics.drawable.ColorDrawable;
 import android.os.Bundle;
 import android.os.Handler;
@@ -32,6 +36,7 @@ import com.google.android.gms.maps.model.LatLngBounds;
 import com.google.android.gms.maps.model.MapStyleOptions;
 import com.google.android.gms.maps.model.MarkerOptions;
 import com.google.android.gms.maps.model.PolylineOptions;
+import com.h3lc.android.uptrain.Database.UserUtil;
 import com.h3lc.android.uptrain.Models.Journey;
 import com.h3lc.android.uptrain.Models.Location;
 import com.h3lc.android.uptrain.R;
@@ -58,6 +63,7 @@ public class RunRecordDetailActivity extends AppCompatActivity implements OnMapR
     TextView distanceTextview;
     TextView timeTextview;
     RatingBar ratingBar;
+    TextView userNameTextView;
 
     Journey mJourney;
 
@@ -91,8 +97,9 @@ public class RunRecordDetailActivity extends AppCompatActivity implements OnMapR
         timeTextview = (TextView) findViewById(R.id.time_textview);
         ratingBar = (RatingBar) findViewById(R.id.ratingBar);
         editButton = findViewById(R.id.edit_btn);
-       backButton = (Button) findViewById(R.id.back_btn);
-       deleteButton =  findViewById(R.id.delete_btn);
+        backButton = (Button) findViewById(R.id.back_btn);
+        deleteButton =  findViewById(R.id.delete_btn);
+        userNameTextView = (TextView) findViewById(R.id.userName);
         deleteButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -125,6 +132,9 @@ public class RunRecordDetailActivity extends AppCompatActivity implements OnMapR
 
     private void loadLayout() {
         mJourney = mJourneyUtil.getJourneyByID(journeyID);
+        UserUtil userUntil= new UserUtil(getBaseContext());
+        String username = userUntil.getAllUser().get(0).getmName();
+        userNameTextView.setText(username);
         //get data by journey Id
         String journeyDate = dateFormat.format(mJourney.getmDate());
         String journeyName = mJourney.getmName();
@@ -237,13 +247,13 @@ public class RunRecordDetailActivity extends AppCompatActivity implements OnMapR
     @Override
     public void onMapReady(@NonNull @NotNull GoogleMap googleMap) {
         mMap = googleMap;
-        MapStyleOptions style = MapStyleOptions.loadRawResourceStyle(this, R.raw.map_style_night);
+        MapStyleOptions style = MapStyleOptions.loadRawResourceStyle(this, R.raw.map_style_light);
         mMap.setMapStyle(style);
         // draw polyline
 
         List<Location> locations = mLocationUtil.getLocationsByJourney(journeyID);
 
-        PolylineOptions line = new PolylineOptions().clickable(false).width(10).color(getResources().getColor(R.color.green_malachite));
+        PolylineOptions line = new PolylineOptions().clickable(false).width(10).color(getResources().getColor(R.color.blue));
         ;
         LatLng firstLoc = null;
         LatLng lastLoc = null;
@@ -261,7 +271,7 @@ public class RunRecordDetailActivity extends AppCompatActivity implements OnMapR
         }
         if (lastLoc != null && firstLoc != null) {
             //Bitmap start_pin = Bitmap.createScaledBitmap(, 120, 120, false);
-            Bitmap marker_pin = Bitmap.createScaledBitmap(BitmapFactory.decodeResource(getResources(), R.drawable.end_map_pin), 50, 50, false);
+            Bitmap marker_pin = Bitmap.createScaledBitmap(changeBitmapColor(R.drawable.end_map_pin, R.color.blue), 50, 50, false);
             mMap.addMarker(new MarkerOptions().position(firstLoc).title("Start")).setIcon(BitmapDescriptorFactory.fromBitmap(marker_pin));
             mMap.addMarker(new MarkerOptions().position(lastLoc).title("End")).setIcon(BitmapDescriptorFactory.fromBitmap(marker_pin));
 
@@ -276,5 +286,16 @@ public class RunRecordDetailActivity extends AppCompatActivity implements OnMapR
                 }
             });
         }
+    }
+
+    // Method to change the color of the bitmap
+    private Bitmap changeBitmapColor(int resourceId, int color) {
+        Bitmap originalBitmap = BitmapFactory.decodeResource(getResources(), resourceId);
+        Bitmap newBitmap = Bitmap.createBitmap(originalBitmap.getWidth(), originalBitmap.getHeight(), originalBitmap.getConfig());
+        Canvas canvas = new Canvas(newBitmap);
+        Paint paint = new Paint();
+        paint.setColorFilter(new PorterDuffColorFilter(color, PorterDuff.Mode.SRC_IN));
+        canvas.drawBitmap(originalBitmap, 0, 0, paint);
+        return newBitmap;
     }
 }

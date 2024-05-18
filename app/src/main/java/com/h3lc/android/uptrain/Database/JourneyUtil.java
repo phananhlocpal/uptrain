@@ -237,8 +237,12 @@ public class JourneyUtil {
     public ArrayList<HashMap<String,Object>> getTotalDistance5Weeks(){
         //List Hashmap to store data
         ArrayList<HashMap<String,Object>> resultList = new ArrayList<>();
-        String query = "SELECT strftime('%W',date) as \"Week Order\", SUM(distance) as \"Total Distance\", COUNT(*) as \"Num Of Record\", SUM(duration) as \"Total Duration\" \n" +
-                "from journey \n" +
+        String query = "SELECT strftime('%W',date) as \"Week Order\"," +
+                "SUM(distance) as \"Total Distance\", " +
+                "COUNT(*) as \"Num Of Record\", " +
+                "SUM(duration) as \"Total Duration\", " +
+                "SUM(distance) * 1.0 / SUM(duration) as \"Average Speed\"" +
+                "FROM journey " +
                 "where strftime('%W',date)  >= strftime('%W',DATE('now', 'weekday 0', '-30 days'))\n" +
                 "group by strftime('%W',date);";
         Cursor cursor = mDatabase.rawQuery(query,null);
@@ -250,12 +254,14 @@ public class JourneyUtil {
                 int num_of_record = cursor.getInt(cursor.getColumnIndex("Num Of Record"));
                 float total_distance = cursor.getFloat(cursor.getColumnIndex("Total Distance"));
                 long total_duration = cursor.getLong(cursor.getColumnIndex("Total Duration"));
+                float total_speed = cursor.getFloat(cursor.getColumnIndex("Average Speed"));
 
                 HashMap<String,Object> mMap = new HashMap();
                 mMap.put("week_order",week_order);
                 mMap.put("num_of_record",num_of_record);
                 mMap.put("total_distance",total_distance);
                 mMap.put("total_duration",total_duration);
+                mMap.put("total_speed", total_speed);
 
                 resultList.add(mMap);
                 cursor.moveToNext();
@@ -265,15 +271,18 @@ public class JourneyUtil {
         return resultList;
     }
 
-    public ArrayList<HashMap<String,Object>> getTotalDistanceMonthly(){
-        //List Hashmap to store data
-        ArrayList<HashMap<String,Object>> resultList = new ArrayList<>();
-        String query = "SELECT strftime('%m', date) as \"Month of Year\", SUM (distance) as \"Total Distance\" , COUNT(*) as \"Num Of Record\", SUM(duration) as \"Total Duration\" \n" +
-                "FROM journey\n" +
+    public ArrayList<HashMap<String, Object>> getTotalDistanceMonthly() {
+        ArrayList<HashMap<String, Object>> resultList = new ArrayList<>();
+        String query = "SELECT strftime('%m', date) as \"Month of Year\", " +
+                "SUM(distance) as \"Total Distance\", " +
+                "COUNT(*) as \"Num Of Record\", " +
+                "SUM(duration) as \"Total Duration\", " +
+                "SUM(distance) * 1.0 / SUM(duration)  as \"Average Speed\"" +
+                "FROM journey " +
                 "WHERE strftime('%m%Y',date)  >=  strftime('%m', DATE('now','start of year')) AND strftime('%Y',date) = strftime('%Y',DATE('now','start of year'))\n" +
                 "GROUP BY strftime('%m',date)";
-        Cursor cursor = mDatabase.rawQuery(query,null);
-        if(cursor.getCount()>0)
+        Cursor cursor = mDatabase.rawQuery(query, null);
+        if(cursor.getCount()>0 )
         {
             cursor.moveToFirst();
             while (!cursor.isAfterLast()){
@@ -281,13 +290,14 @@ public class JourneyUtil {
                 float total_distance = cursor.getFloat(cursor.getColumnIndex("Total Distance"));
                 long total_duration = cursor.getLong(cursor.getColumnIndex("Total Duration"));
                 int num_of_record = cursor.getInt(cursor.getColumnIndex("Num Of Record"));
+                float total_speed = cursor.getFloat(cursor.getColumnIndex("Average Speed"));
 
-                //get data
                 HashMap<String,Object> mMap = new HashMap();
                 mMap.put("month_number",month_number);
-                mMap.put("total_duration",total_duration);
                 mMap.put("total_distance",total_distance);
+                mMap.put("total_duration",total_duration);
                 mMap.put("num_of_record",num_of_record);
+                mMap.put("total_speed", total_speed);
 
                 resultList.add(mMap);
                 cursor.moveToNext();
@@ -300,12 +310,16 @@ public class JourneyUtil {
     public ArrayList<HashMap<String,Object>> getTotalDistanceDaily(){
         //List Hashmap to store data
         ArrayList<HashMap<String,Object>> resultList = new ArrayList<>();
-        String query = "SELECT strftime('%d/%m/%Y', date) as \"Day of Week\", SUM (distance) as \"Total Distance\" , COUNT(*) as \"Num Of Record\", SUM(duration) as \"Total Duration\"  \n"
-                +"FROM journey\n"
-                +"WHERE strftime(DATE(date)) >= strftime(DATE('now', 'weekday 0', '-7 days'))\n"
-                +"GROUP BY strftime('%d%m%Y',date)";
+        String query = "SELECT strftime('%d/%m/%Y', date) as \"Day of Week\", "
+                + "SUM(distance) as \"Total Distance\", "
+                + "COUNT(*) as \"Num Of Record\", "
+                + "SUM(duration) as \"Total Duration\", "
+                + "SUM(distance) * 1.0 / SUM(duration) as \"Average Speed\""
+                + "FROM journey "
+                + "WHERE strftime(DATE(date)) >= strftime(DATE('now', 'weekday 0', '-7 days')) "
+                + "GROUP BY strftime('%d%m%Y', date)";
         Cursor cursor = mDatabase.rawQuery(query,null);
-        if(cursor.getCount()>0)
+        if(cursor.getCount()>0 )
         {
             cursor.moveToFirst();
             while (!cursor.isAfterLast()){
@@ -313,12 +327,14 @@ public class JourneyUtil {
                 long total_duration = cursor.getLong(cursor.getColumnIndex("Total Duration"));
                 String day_of_week = cursor.getString(cursor.getColumnIndex("Day of Week"));
                 int num_of_record = cursor.getInt(cursor.getColumnIndex("Num Of Record"));
+                float total_speed = cursor.getFloat(cursor.getColumnIndex("Average Speed"));
 
                 HashMap<String,Object> mMap = new HashMap();
                 mMap.put("total_distance",total_distance);
                 mMap.put("total_duration",total_duration);
                 mMap.put("day_of_week",day_of_week);
                 mMap.put("num_of_record",num_of_record);
+                mMap.put("total_speed", total_speed);
 
                 resultList.add(mMap);
                 cursor.moveToNext();

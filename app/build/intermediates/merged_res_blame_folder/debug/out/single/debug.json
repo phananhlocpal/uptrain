@@ -1,11 +1,35 @@
 [
     {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\layout_activity_list_running.xml.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\layout\\activity_list_running.xml"
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable-xxxhdpi_logo.png.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable-xxxhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\mipmap-xhdpi_ic_launcher_uptrain_round.webp.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\mipmap-xhdpi\\ic_launcher_uptrain_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_email.png.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\email.png"
+    },
+    {
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\raw_map_style_night.json.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\raw\\map_style_night.json"
+    },
+    {
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_bottom_nav_backgound.xml.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\bottom_nav_backgound.xml"
     },
     {
         "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\layout_dialog_run_record_edit.xml.flat",
         "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\layout\\dialog_run_record_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_running.png.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\running.png"
+    },
+    {
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_back.png.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\back.png"
     },
     {
         "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\layout_fragment_run_record.xml.flat",
@@ -28,28 +52,56 @@
         "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\timegreen.png"
     },
     {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\layout_congrat_dialog.xml.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\layout\\congrat_dialog.xml"
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_img_user.png.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\img_user.png"
+    },
+    {
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_btn_green_new.xml.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\btn_green_new.xml"
+    },
+    {
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_img_logo.png.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\img_logo.png"
     },
     {
         "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_img_runner.png.flat",
         "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\img_runner.png"
     },
     {
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_img_private.png.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\img_private.png"
+    },
+    {
         "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable-mdpi_google.png.flat",
         "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable-mdpi\\google.png"
     },
     {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\layout_welcome_layout.xml.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\layout\\welcome_layout.xml"
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_edit_text_congra.xml.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\edit_text_congra.xml"
     },
     {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\layout_fragment_setting.xml.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\layout\\fragment_setting.xml"
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\layout_activity_input_gender.xml.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\layout\\activity_input_gender.xml"
+    },
+    {
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\raw_calendar_icon_anim.json.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\raw\\calendar_icon_anim.json"
     },
     {
         "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\mipmap-xxxhdpi_ic_launcher_uptrain.webp.flat",
         "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\mipmap-xxxhdpi\\ic_launcher_uptrain.webp"
+    },
+    {
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable-xxxhdpi_google.png.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable-xxxhdpi\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable-ldpi_logo.png.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable-ldpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\layout_activity_input_height.xml.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\layout\\activity_input_height.xml"
     },
     {
         "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\mipmap-xxhdpi_ic_launcher_uptrain_foreground.webp.flat",
@@ -60,12 +112,12 @@
         "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\font\\roboto.xml"
     },
     {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_distancegreen.png.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\distancegreen.png"
-    },
-    {
         "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\mipmap-xxhdpi_ic_launcher_uptrain.webp.flat",
         "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\mipmap-xxhdpi\\ic_launcher_uptrain.webp"
+    },
+    {
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_distancegreen.png.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\distancegreen.png"
     },
     {
         "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\layout_onboarding_layout.xml.flat",
@@ -76,32 +128,28 @@
         "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\img_speed.png"
     },
     {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_phone.png.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\phone.png"
-    },
-    {
         "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_textpagegender.png.flat",
         "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\textpagegender.png"
     },
     {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_l.png.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\l.png"
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_phone.png.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\phone.png"
     },
     {
         "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
         "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_img_facebook.png.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\img_facebook.png"
+    },
+    {
         "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable-xxhdpi_logo.png.flat",
         "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable-xxhdpi\\logo.png"
     },
     {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\mipmap-mdpi\\ic_launcher_foreground.png"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_test.jpg.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\test.jpg"
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_sup.png.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\sup.png"
     },
     {
         "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_language.png.flat",
@@ -112,24 +160,8 @@
         "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable-xhdpi\\google.png"
     },
     {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_logoapp.png.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\logoapp.png"
-    },
-    {
         "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_stoke_time.xml.flat",
         "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\stoke_time.xml"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\layout_run_record_edit_dialog.xml.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\layout\\run_record_edit_dialog.xml"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\layout_fragment_5.xml.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\layout\\fragment_5.xml"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_topuser.png.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\topuser.png"
     },
     {
         "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_ic_action_float.png.flat",
@@ -140,12 +172,20 @@
         "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\mail.png"
     },
     {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_img_stopbtn.png.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\img_stopbtn.png"
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\mipmap-mdpi_ic_launcher_uptrain_foreground.webp.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\mipmap-mdpi\\ic_launcher_uptrain_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_connect.png.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\connect.png"
     },
     {
         "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_img_condition.png.flat",
         "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\img_condition.png"
+    },
+    {
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_img_stopbtn.png.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\img_stopbtn.png"
     },
     {
         "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_runninglist.png.flat",
@@ -156,16 +196,32 @@
         "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\layout\\activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\layout_confrim_custom_dialog.xml.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\layout\\confrim_custom_dialog.xml"
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_textpage1.png.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\textpage1.png"
+    },
+    {
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\xml_activity_main_scene.xml.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\xml\\activity_main_scene.xml"
     },
     {
         "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\layout_activity_input_individual_info.xml.flat",
         "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\layout\\activity_input_individual_info.xml"
     },
     {
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_user.png.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\user.png"
+    },
+    {
         "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable-anydpi-v21_ic_action_float.xml.flat",
         "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-pngs-19:\\drawable-anydpi-v21\\ic_action_float.xml"
+    },
+    {
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_img_sercurity.png.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\img_sercurity.png"
+    },
+    {
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_textpageweigh.png.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\textpageweigh.png"
     },
     {
         "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable-xxhdpi_ic_action_float.png.flat",
@@ -184,12 +240,28 @@
         "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\layout\\fragment_home.xml"
     },
     {
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_weighimage.png.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\weighimage.png"
+    },
+    {
         "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_img_connect.png.flat",
         "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\img_connect.png"
     },
     {
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_list_item_background.xml.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\list_item_background.xml"
+    },
+    {
         "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_btn_black.xml.flat",
         "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\btn_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable-ldpi_google.png.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable-ldpi\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_welcome_bg.png.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\welcome_bg.png"
     },
     {
         "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_heighimage.png.flat",
@@ -208,12 +280,12 @@
         "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\google.png"
     },
     {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\layout_run_record_detail_layout.xml.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\layout\\run_record_detail_layout.xml"
-    },
-    {
         "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable-hdpi_ic_action_float.png.flat",
         "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-pngs-19:\\drawable-hdpi\\ic_action_float.png"
+    },
+    {
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_shadow_effect_light.9.png.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\shadow_effect_light.9.png"
     },
     {
         "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\mipmap-xxxhdpi_ic_launcher_uptrain_round.webp.flat",
@@ -222,6 +294,10 @@
     {
         "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_stoke_distance.xml.flat",
         "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\stoke_distance.xml"
+    },
+    {
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_img_runmap.png.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\img_runmap.png"
     },
     {
         "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_verified.png.flat",
@@ -256,20 +332,28 @@
         "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\privacy.png"
     },
     {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\layout_activity_splash.xml.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\layout\\activity_splash.xml"
-    },
-    {
         "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_img_settings.png.flat",
         "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\img_settings.png"
     },
     {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\layout_running_indicator_component.xml.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\layout\\running_indicator_component.xml"
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\layout_dialog_congrat.xml.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\layout\\dialog_congrat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "com.h3lc.android.uptrain.app-merged_res-24:/raw_map_style_night.json.flat",
+        "source": "com.h3lc.android.uptrain.app-main-26:/raw/map_style_night.json"
     },
     {
         "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\layout_component_running_record_item_for_home.xml.flat",
         "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\layout\\component_running_record_item_for_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\layout_activity_welcome.xml.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\layout\\activity_welcome.xml"
     },
     {
         "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_btnstart.png.flat",
@@ -280,12 +364,12 @@
         "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\mipmap-anydpi-v26\\ic_launcher_uptrain_round.xml"
     },
     {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\layout_activity_welcome.xml.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\layout\\activity_welcome.xml"
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\raw_runner_gif.json.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\raw\\runner_gif.json"
     },
     {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\layout_home_layout.xml.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\layout\\home_layout.xml"
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_img_home.png.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\img_home.png"
     },
     {
         "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable-xhdpi_ic_action_float.png.flat",
@@ -296,24 +380,48 @@
         "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\namepur.png"
     },
     {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_one.png.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\one.png"
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\mipmap-xxhdpi_ic_launcher_uptrain_round.webp.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\mipmap-xxhdpi\\ic_launcher_uptrain_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable-hdpi_google.png.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable-hdpi\\google.png"
     },
     {
         "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\mipmap-anydpi-v26_ic_launcher_uptrain.xml.flat",
         "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\mipmap-anydpi-v26\\ic_launcher_uptrain.xml"
     },
     {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_bgwelcome.jpg.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\bgwelcome.jpg"
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_one.png.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\one.png"
+    },
+    {
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\layout_component_running_record_item.xml.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\layout\\component_running_record_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_step.png.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\step.png"
     },
     {
         "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\mipmap-hdpi_ic_launcher_uptrain_round.webp.flat",
         "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\mipmap-hdpi\\ic_launcher_uptrain_round.webp"
     },
     {
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable-xhdpi_facebook.png.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable-xhdpi\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_img_author_ava.png.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\img_author_ava.png"
+    },
+    {
         "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\layout_component_running_indicator.xml.flat",
         "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\layout\\component_running_indicator.xml"
+    },
+    {
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_img_dropdown.png.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\img_dropdown.png"
     },
     {
         "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\layout_activity_run_record_detail.xml.flat",
@@ -324,8 +432,16 @@
         "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\btn_green.xml"
     },
     {
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\font_manrope.xml.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\font\\manrope.xml"
+    },
+    {
         "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\layout_dialog_custom_confirm.xml.flat",
         "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\layout\\dialog_custom_confirm.xml"
+    },
+    {
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_imagetext.png.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\imagetext.png"
     },
     {
         "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\layout_dialog_custom.xml.flat",
@@ -336,12 +452,12 @@
         "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-pngs-19:\\drawable-ldpi\\ic_action_float.png"
     },
     {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_img_google.png.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\img_google.png"
-    },
-    {
         "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_congrat_back.xml.flat",
         "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\congrat_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_img_google.png.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\img_google.png"
     },
     {
         "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_img_babyfeet.png.flat",
@@ -352,12 +468,16 @@
         "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\mipmap-mdpi\\ic_launcher_uptrain_round.webp"
     },
     {
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\color_custom_color_bottom_nav.xml.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\color\\custom_color_bottom_nav.xml"
+    },
+    {
         "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\raw_effect_tick.mp3.flat",
         "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\raw\\effect_tick.mp3"
     },
     {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\layout_second_input_layout.xml.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\layout\\second_input_layout.xml"
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\menu_menu_bottom_nav.xml.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\menu\\menu_bottom_nav.xml"
     },
     {
         "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_logout.png.flat",
@@ -376,6 +496,18 @@
         "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\edit_text_stoke_green.xml"
     },
     {
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_dob.png.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\dob.png"
+    },
+    {
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_gif_runningman.gif.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\gif_runningman.gif"
+    },
+    {
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_two.png.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\two.png"
+    },
+    {
         "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_medical.png.flat",
         "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\medical.png"
     },
@@ -384,44 +516,72 @@
         "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\img_image17.png"
     },
     {
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_img_runningman.png.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\img_runningman.png"
+    },
+    {
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_imagerun.png.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\imagerun.png"
+    },
+    {
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_name.png.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\name.png"
+    },
+    {
         "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
         "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-pngs-19:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_p.png.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\p.png"
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_img_login.png.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\img_login.png"
+    },
+    {
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_img_support.png.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\img_support.png"
+    },
+    {
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_shadow_shape.9.png.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\shadow_shape.9.png"
     },
     {
         "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_like.png.flat",
         "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\like.png"
     },
     {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_time.png.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\time.png"
-    },
-    {
         "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_edittext_bg.xml.flat",
         "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\edittext_bg.xml"
     },
     {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_bgtest.jpg.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\bgtest.jpg"
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_time.png.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\time.png"
     },
     {
         "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_logout_white.png.flat",
         "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\logout_white.png"
     },
     {
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable-hdpi_logo.png.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable-hdpi\\logo.png"
+    },
+    {
         "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\layout_fragment_profile_info.xml.flat",
         "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\layout\\fragment_profile_info.xml"
     },
     {
-        "merged": "com.h3lc.android.uptrain.app-merged_res-24:/layout_activity_splash.xml.flat",
-        "source": "com.h3lc.android.uptrain.app-main-26:/layout/activity_splash.xml"
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable-xhdpi_logo.png.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable-xhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\layout_fragment_about_us.xml.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\layout\\fragment_about_us.xml"
     },
     {
         "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable-hdpi_facebook.png.flat",
         "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable-hdpi\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_delete.png.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\delete.png"
     },
     {
         "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_radio_selected.xml.flat",
@@ -436,32 +596,84 @@
         "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\mipmap-mdpi\\ic_launcher_uptrain.webp"
     },
     {
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\mipmap-hdpi_ic_launcher_uptrain.webp.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\mipmap-hdpi\\ic_launcher_uptrain.webp"
+    },
+    {
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_right.png.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\right.png"
+    },
+    {
         "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_textpageheigh.png.flat",
         "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\textpageheigh.png"
+    },
+    {
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_img_gobtn.png.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\img_gobtn.png"
     },
     {
         "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_img_clock.png.flat",
         "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\img_clock.png"
     },
     {
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable-xxhdpi_facebook.png.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable-xxhdpi\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\layout_activity_bmi_calculator.xml.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\layout\\activity_bmi_calculator.xml"
+    },
+    {
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_female.png.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\female.png"
+    },
+    {
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable-mdpi_facebook.png.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable-mdpi\\facebook.png"
+    },
+    {
         "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable-mdpi_ic_action_float.png.flat",
         "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable-mdpi\\ic_action_float.png"
+    },
+    {
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_edit.png.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\edit.png"
+    },
+    {
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_img_notification.png.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\img_notification.png"
+    },
+    {
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable-xxxhdpi_facebook.png.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable-xxxhdpi\\facebook.png"
     },
     {
         "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_speed.png.flat",
         "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\speed.png"
     },
     {
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_plus1.png.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\plus1.png"
+    },
+    {
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_rectangle_radius_16.xml.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\rectangle_radius_16.xml"
+    },
+    {
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_notification.png.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\notification.png"
+    },
+    {
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable-xxhdpi_google.png.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable-xxhdpi\\google.png"
+    },
+    {
         "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_home.png.flat",
         "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\home.png"
     },
     {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_d.png.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\d.png"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_bgrselultdetail.jpg.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\bgrselultdetail.jpg"
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable-ldpi_end_map_pin.png.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable-ldpi\\end_map_pin.png"
     },
     {
         "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_edit_text_congra1.xml.flat",
@@ -470,6 +682,14 @@
     {
         "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\mipmap-xxxhdpi_ic_launcher_uptrain_foreground.webp.flat",
         "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\mipmap-xxxhdpi\\ic_launcher_uptrain_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_btnstop.png.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\btnstop.png"
+    },
+    {
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\raw_congratulation_badge_animation.json.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\raw\\congratulation_badge_animation.json"
     },
     {
         "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_distance.png.flat",
@@ -492,12 +712,12 @@
         "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\layout\\fragment_list_running.xml"
     },
     {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_rule.png.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\rule.png"
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_img_exercise.png.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\img_exercise.png"
     },
     {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\layout_splash_layout.xml.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\layout\\splash_layout.xml"
+        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_rule.png.flat",
+        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\rule.png"
     },
     {
         "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_shadow.png.flat",
@@ -506,402 +726,6 @@
     {
         "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_welcome_bg2.png.flat",
         "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\welcome_bg2.png"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable-xxxhdpi_logo.png.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable-xxxhdpi\\logo.png"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\mipmap-xhdpi_ic_launcher_uptrain_round.webp.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\mipmap-xhdpi\\ic_launcher_uptrain_round.webp"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_email.png.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\email.png"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\raw_map_style_night.json.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\raw\\map_style_night.json"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_bottom_nav_backgound.xml.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\bottom_nav_backgound.xml"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_running.png.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\running.png"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_back.png.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\back.png"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_img_user.png.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\img_user.png"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_btn_green_new.xml.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\btn_green_new.xml"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\layout_run_record_layout.xml.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\layout\\run_record_layout.xml"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_img_logo.png.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\img_logo.png"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_img_private.png.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\img_private.png"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\layout_bmi_calculate_layout.xml.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\layout\\bmi_calculate_layout.xml"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_edit_text_congra.xml.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\edit_text_congra.xml"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\layout_activity_input_gender.xml.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\layout\\activity_input_gender.xml"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\raw_calendar_icon_anim.json.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\raw\\calendar_icon_anim.json"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable-xxxhdpi_google.png.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable-xxxhdpi\\google.png"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable-ldpi_logo.png.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable-ldpi\\logo.png"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\layout_activity_input_height.xml.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\layout\\activity_input_height.xml"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\layout_running_record_item_layout_2.xml.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\layout\\running_record_item_layout_2.xml"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\layout_fragment_bmi_calculator.xml.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\layout\\fragment_bmi_calculator.xml"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_img_facebook.png.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\img_facebook.png"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_sup.png.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\sup.png"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\mipmap-hdpi\\ic_launcher_foreground.png"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\mipmap-mdpi_ic_launcher_uptrain_foreground.webp.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\mipmap-mdpi\\ic_launcher_uptrain_foreground.webp"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_connect.png.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\connect.png"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\layout_running_record_item_layout.xml.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\layout\\running_record_item_layout.xml"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_t.png.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\t.png"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_textpage1.png.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\textpage1.png"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\mipmap-xhdpi\\ic_launcher_foreground.png"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\xml_activity_main_scene.xml.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\xml\\activity_main_scene.xml"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_user.png.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\user.png"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\layout_third_input_layout.xml.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\layout\\third_input_layout.xml"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_img_sercurity.png.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\img_sercurity.png"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_textpageweigh.png.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\textpageweigh.png"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\layout_aboutus_layout.xml.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\layout\\aboutus_layout.xml"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\layout_activity_first_input.xml.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\layout\\activity_first_input.xml"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_weighimage.png.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\weighimage.png"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_list_item_background.xml.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\list_item_background.xml"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable-ldpi_google.png.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable-ldpi\\google.png"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_welcome_bg.png.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\welcome_bg.png"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_shadow_effect_light.9.png.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\shadow_effect_light.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_n.png.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\n.png"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_img_runmap.png.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\img_runmap.png"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\layout_dialog_congrat.xml.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\layout\\dialog_congrat.xml"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\layout_acticity_about_us.xml.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\layout\\acticity_about_us.xml"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_card_cod_gray_background.xml.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\card_cod_gray_background.xml"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_img_home.png.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\img_home.png"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\raw_runner_gif.json.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\raw\\runner_gif.json"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\mipmap-xxhdpi_ic_launcher_uptrain_round.webp.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\mipmap-xxhdpi\\ic_launcher_uptrain_round.webp"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable-hdpi_google.png.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable-hdpi\\google.png"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\layout_component_running_record_item.xml.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\layout\\component_running_record_item.xml"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_step.png.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\step.png"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_img_author_ava.png.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\img_author_ava.png"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable-xhdpi_facebook.png.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable-xhdpi\\facebook.png"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_img_dropdown.png.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\img_dropdown.png"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\layout_info_layout.xml.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\layout\\info_layout.xml"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\font_manrope.xml.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\font\\manrope.xml"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\layout_four_input_layout.xml.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\layout\\four_input_layout.xml"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\layout_list_running_layout.xml.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\layout\\list_running_layout.xml"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_imagetext.png.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\imagetext.png"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\color_custom_color_bottom_nav.xml.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\color\\custom_color_bottom_nav.xml"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\menu_menu_bottom_nav.xml.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\menu\\menu_bottom_nav.xml"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_gif_runningman.gif.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\gif_runningman.gif"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_dob.png.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\dob.png"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_two.png.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\two.png"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_img_runningman.png.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\img_runningman.png"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_imagerun.png.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\imagerun.png"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_name.png.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\name.png"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_img_login.png.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\img_login.png"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_img_support.png.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\img_support.png"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_shadow_shape.9.png.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\shadow_shape.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\layout_user_layout.xml.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\layout\\user_layout.xml"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable-hdpi_logo.png.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable-hdpi\\logo.png"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable-xhdpi_logo.png.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable-xhdpi\\logo.png"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\layout_fragment_about_us.xml.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\layout\\fragment_about_us.xml"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_delete.png.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\delete.png"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\layout_first_input_layout.xml.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\layout\\first_input_layout.xml"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\mipmap-hdpi_ic_launcher_uptrain.webp.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\mipmap-hdpi\\ic_launcher_uptrain.webp"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_right.png.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\right.png"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\layout_activity_bmi_calculator.xml.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\layout\\activity_bmi_calculator.xml"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_img_gobtn.png.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\img_gobtn.png"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable-xxhdpi_facebook.png.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable-xxhdpi\\facebook.png"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_female.png.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\female.png"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable-mdpi_facebook.png.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable-mdpi\\facebook.png"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_edit.png.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\edit.png"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_img_notification.png.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\img_notification.png"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable-xxxhdpi_facebook.png.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable-xxxhdpi\\facebook.png"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_plus1.png.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\plus1.png"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_rectangle_radius_16.xml.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\rectangle_radius_16.xml"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_notification.png.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\notification.png"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable-xxhdpi_google.png.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable-xxhdpi\\google.png"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable-ldpi_end_map_pin.png.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable-ldpi\\end_map_pin.png"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_btnstop.png.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\btnstop.png"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\raw_congratulation_badge_animation.json.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\raw\\congratulation_badge_animation.json"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\layout_fragment_custom_dialog.xml.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\layout\\fragment_custom_dialog.xml"
-    },
-    {
-        "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_img_exercise.png.flat",
-        "source": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-main-26:\\drawable\\img_exercise.png"
     },
     {
         "merged": "C:\\Users\\Surface\\.gradle\\daemon\\7.5\\com.h3lc.android.uptrain.app-merged_res-24:\\drawable_rectangle_radius_steps.xml.flat",

@@ -13,11 +13,11 @@
         android:icon="@drawable/img_runmap"
         />
     <item android:id="@+id/action_4"
-        android:title="Notification"
+        android:title="List journey"
         android:icon="@drawable/img_notification"
         />
     <item android:id="@+id/action_5"
-        android:title="Setting"
+        android:title="About us"
         android:icon="@drawable/img_settings"
         />
 </menu>

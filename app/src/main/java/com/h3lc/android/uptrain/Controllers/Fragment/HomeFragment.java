@@ -233,6 +233,7 @@ public class HomeFragment extends Fragment {
         float totalDistance = 0;
         long totalDuration = 0;
         int countRecord = 0;
+        float averageSpeed = 0;
         if(chartType.equals("Week")){
             ArrayList<HashMap<String,Object>> sumDistanceList = mJourneyUtil.getTotalDistanceDaily();
 
@@ -240,6 +241,7 @@ public class HomeFragment extends Fragment {
                 totalDistance += (float) x.get("total_distance");
                 totalDuration += (long) x.get("total_duration");
                 countRecord += (int) x.get("num_of_record");
+                averageSpeed += (float) x.get("total_speed");
             }
 
         }
@@ -249,6 +251,7 @@ public class HomeFragment extends Fragment {
                 totalDistance += (float) x.get("total_distance");
                 totalDuration += (long) x.get("total_duration");
                 countRecord += (int) x.get("num_of_record");
+                averageSpeed += (float) x.get("total_speed");
             }
 
         }
@@ -258,6 +261,7 @@ public class HomeFragment extends Fragment {
                totalDistance += (float) x.get("total_distance");
                totalDuration += (long) x.get("total_duration");
                countRecord += (int) x.get("num_of_record");
+               averageSpeed += (float) x.get("total_speed");
             }
         }
 
@@ -267,6 +271,7 @@ public class HomeFragment extends Fragment {
         mDashnoardDistanceString = String.format("%.2f km", totalDistance);
         mDashboardTimeString = String.format("%02dh%02dm", hours, minutes);
         mDashboardStepString = countRecord+"";
+        mDashboardSpeedString = String.format("%.2f km/h", averageSpeed);
 
     }
 

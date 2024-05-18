@@ -61,8 +61,8 @@
             android:hint="Enter your full name"
             android:inputType="textPersonName"
             android:paddingLeft="10dp"
-            android:textColor="@color/white"
-            android:textColorHint="@color/material_on_primary_emphasis_medium"
+            android:textColor="@color/black"
+            android:textColorHint="@color/blue"
             android:textSize="@dimen/content" />
 
         <LinearLayout
@@ -101,8 +101,8 @@
                     android:hint="Enter your age"
                     android:inputType="number"
                     android:paddingLeft="10dp"
-                    android:textColor="@color/white"
-                    android:textColorHint="@color/material_on_primary_emphasis_medium"
+                    android:textColor="@color/black"
+                    android:textColorHint="@color/blue"
                     android:textSize="16sp" />
 
             </LinearLayout>
@@ -138,8 +138,8 @@
                     android:hint="Enter your phone"
                     android:inputType="phone"
                     android:paddingLeft="10dp"
-                    android:textColor="@color/white"
-                    android:textColorHint="@color/material_on_primary_emphasis_medium"
+                    android:textColor="@color/black"
+                    android:textColorHint="@color/blue"
                     android:textSize="15sp" />
             </LinearLayout>
 
@@ -170,8 +170,8 @@
             android:hint="i.e example@mail.com"
             android:inputType="textEmailAddress"
             android:paddingLeft="10dp"
-            android:textColor="@color/white"
-            android:textColorHint="@color/material_on_primary_emphasis_medium"
+            android:textColor="@color/black"
+            android:textColorHint="@color/blue"
             android:textSize="16sp" />
 
     </LinearLayout>
